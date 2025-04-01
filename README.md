@@ -1,4 +1,4 @@
-# PKR23006
+# PKR23006  -  This is a new branch
 First GIT REPO
 
-First Line of the GIT REPO, Testing how to make updates on GITHUB
+I've just made a branch from my repo. 
